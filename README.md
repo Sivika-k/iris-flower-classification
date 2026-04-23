@@ -36,7 +36,7 @@ The dataset used is the famous Iris dataset.
 - n_neighbors: 3
 - Type: Classification
 
-## 📈 Output Example
+## Output Example
 
 ### Accuracy:
 Accuracy: 1.0
