@@ -51,6 +51,9 @@ Input:
 Output:
 Iris-setosa
 
+## Outcome:
+The model correctly classifies all test samples, showing excellent performance on the Iris dataset.
+
 ## Key Learnings
 - Data preprocessing
 - Label encoding
