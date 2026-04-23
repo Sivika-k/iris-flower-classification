@@ -36,23 +36,6 @@ The dataset used is the famous Iris dataset.
 - n_neighbors: 3
 - Type: Classification
 
-
-## How to Run
-
-### 1. Clone the repository
-git clone https://github.com/your-username/iris-flower-classification.git
-
-### 2. Move into project folder
-cd iris-flower-classification
-
-### 3. Install dependencies
-pip install -r requirements.txt
-
-### 4. Run the project
-python iris_model.py
-
----
-
 ## 📈 Output Example
 
 ### Accuracy:
@@ -68,16 +51,13 @@ Input:
 Output:
 Iris-setosa
 
-## 💡 Key Learnings
+## Key Learnings
 - Data preprocessing
 - Label encoding
 - Train-test split
 - KNN algorithm
 - Model evaluation
 
-## 👨‍💻 Author
+## Author
 
 ## Sivika K
-
-## ⭐ If you like this project
-Give a star ⭐ to the repository
